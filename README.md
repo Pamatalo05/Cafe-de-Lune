@@ -1,45 +1,25 @@
-# ☕ Proyecto 03: Landing Page SPA - TailwindCSS & JavaScript
+Thanks for downloading this theme!
 
-## 🌙 Café de Lune
+## Other Useful Links
 
-**Descripción:**  
-Café de Lune es una cafetería artesanal que busca reflejar su esencia cálida, natural y acogedora mediante una página web moderna e intuitiva.  
-El sitio está desarrollado con **HTML**, **TailwindCSS** y **JavaScript**, y tiene como propósito transmitir la identidad del local y acercar su experiencia a nuevos clientes.
+**ThemeWagon** is a great source for downloading free HTML templates built with the latest technology.
 
----
+To download free templates, follow this link: https://themewagon.com/theme_tag/free/
 
-## 🪶 Problemática
-Café de Lune es una cafetería artesanal que desea transmitir su esencia cálida y su pasión por el café de especialidad.  
-Actualmente no cuenta con una página web que refleje su estilo acogedor ni su compromiso con lo natural.  
-Su presencia digital se limita a redes sociales, lo que reduce su visibilidad y dificulta atraer nuevos clientes interesados en experiencias cafeteras auténticas.
+Besides that, you can buy our premium templates for making your web development experience unforgettable.
 
----
+Visit the store from here: https://themewagon.com/theme-categories/premium-templates/
 
-## 🎯 Objetivo
-Diseñar y desarrollar una **Landing Page tipo SPA** (Single Page Application) que presente la información del negocio y fortalezca su presencia digital, aplicando los conocimientos de HTML, TailwindCSS y JavaScript.
+Alternatively, here's our top most trending and selling items:
 
----
+* [**Sparrow**](https://themewagon.com/themes/sparrow/) - A multipurpose template made with Bootstrap 4.1 and world's finest animation.
+* [**Posh**](https://themewagon.com/themes/posh-html5-bootstrap-4-template/) - Bootstrap 4 template with a myriad number of ready-to-deploy sections. 
+* [**Elixir**](https://themewagon.com/themes/elixir-elegant-html5-bootstrap-template-consultancy-agency-website/) - Bootstrap 4 agency template. Best for smooth animated scrolling. 
+* [**Freya**](https://themewagon.com/themes/bootstrap-4-premium-interior-design-template-freya/) - Interior design template made with Bootstrap 4. 
+* [**Reign Pro**](https://themewagon.com/themes/reign-pro-premium-corporate-agency-html5-template/) - A corporate template with a visually unique design scheme. 
+* [**Boots4**](https://themewagon.com/themes/first-ever-bootstrap-4-template/) - One of the first Bootstrap 4 templates ever made on earth. 
+* [**Hideaway**](https://themewagon.com/themes/hideaway/) - A template for resorts. Built with Bootstrap 4. 
+* [**Baikal**](https://themewagon.com/themes/bootstrap-4-startup-small-business-website-template/) - A smart Bootstrap template for start-up. 
+* [**Mega Discount**](https://themewagon.com/themes/mega-discount-bundle/) - A bundle of 26 HTML5 templates; best value for your money. 
 
-## 🌿 Características principales
-- ✨ Diseño personalizado con **TailwindCSS**, colores cálidos y estilo artesanal.  
-- 🧭 Navegación interna fluida entre secciones (SPA).  
-- 📜 Tres secciones informativas: **Inicio**, **Menú** y **Nosotros**.  
-- 📬 Formulario de contacto con `<input>`, `<select>` y `<button>`.  
-- 💬 Sección que muestra los datos ingresados mediante **JavaScript**.  
-- 🔄 Uso de **Fetch API** para:
-  - **POST:** envío de datos del formulario.  
-  - **GET:** carga de datos simulados (por ejemplo, opiniones o clientes).  
-- 📱 Diseño totalmente **responsivo** para dispositivos móviles, tablet y escritorio.
 
----
-
-## 🧰 Tecnologías utilizadas
-- HTML5  
-- TailwindCSS  
-- JavaScript  
-- Vercel (para el despliegue)
-
----
-
-## 🌐 Enlace del sitio
-🔗 **[https://cafedelune.vercel.app](https://cafedelune.vercel.app)**  
