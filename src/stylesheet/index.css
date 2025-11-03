@@ -1,0 +1,111 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    --background: 28 25% 7%;
+    --foreground: 35 40% 92%;
+
+    --card: 28 20% 10%;
+    --card-foreground: 35 40% 92%;
+
+    --popover: 28 25% 8%;
+    --popover-foreground: 35 40% 92%;
+
+    --primary: 28 45% 15%;
+    --primary-foreground: 35 40% 92%;
+
+    --secondary: 35 45% 85%;
+    --secondary-foreground: 28 45% 15%;
+
+    --muted: 28 20% 20%;
+    --muted-foreground: 35 25% 65%;
+
+    --accent: 38 92% 50%;
+    --accent-foreground: 28 25% 7%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 35 40% 92%;
+
+    --border: 28 20% 20%;
+    --input: 28 20% 18%;
+    --ring: 38 92% 50%;
+
+    --radius: 0.75rem;
+
+    /* Custom cafe tokens */
+    --coffee-dark: 28 45% 15%;
+    --coffee-medium: 28 35% 30%;
+    --cream: 35 45% 85%;
+    --gold: 38 92% 50%;
+    --moon-glow: 35 100% 95%;
+  }
+
+  .dark {
+    --background: 28 25% 7%;
+    --foreground: 35 40% 92%;
+
+    --card: 28 20% 10%;
+    --card-foreground: 35 40% 92%;
+
+    --popover: 28 25% 8%;
+    --popover-foreground: 35 40% 92%;
+
+    --primary: 28 45% 15%;
+    --primary-foreground: 35 40% 92%;
+
+    --secondary: 35 45% 85%;
+    --secondary-foreground: 28 45% 15%;
+
+    --muted: 28 20% 20%;
+    --muted-foreground: 35 25% 65%;
+
+    --accent: 38 92% 50%;
+    --accent-foreground: 28 25% 7%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 35 40% 92%;
+
+    --border: 28 20% 20%;
+    --input: 28 20% 18%;
+    --ring: 38 92% 50%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+@layer components {
+  .section-container {
+    @apply w-full px-4 md:px-8 lg:px-16 py-16 md:py-24;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-accent to-secondary bg-clip-text text-transparent;
+  }
+
+  .moon-glow {
+    box-shadow: 0 0 60px rgba(255, 223, 186, 0.3);
+  }
+}
