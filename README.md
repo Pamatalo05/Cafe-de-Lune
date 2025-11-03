@@ -36,10 +36,6 @@ Se busca que el sitio sea **atractivo, responsivo e interactivo**, utilizando te
 ---
 
 
-## 💻 Ejecución del Proyecto
+## 💻 Link de la versión desplegada en Vercel aquí:
 
-Si se utiliza un entorno local con `npm` o `vite`, se deben seguir los siguientes pasos:
-
-```bash
-npm install
-npm run dev
+https://cafe-de-lune-landing-page.vercel.app/
